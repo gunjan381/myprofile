@@ -1,0 +1,56 @@
+h2{
+	font-family: "Asia-ex";
+	font-size: 300%;
+	padding-left: 20px;
+	background-color: white;
+	padding:50px;
+	color:black
+}
+p{
+	font-family: "Asia-ex";
+	font-size: 250%;
+	background-color: white;
+	padding-left: 15px;
+	color:black
+	
+}
+
+
+
+
+body{
+	margin: 0;
+	background-color: pink;
+	background-image: url(project.jpg);
+	background-size: cover;
+	
+	}
+	
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: black;
+  font-family: "Agency FB";
+  font-size: 200%;
+ overflow: hidden;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  background-color: black;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: white;
+  color: black;
+}

@@ -1,0 +1,61 @@
+h1{
+	font-family: "Asia-ex";
+	font-size: 300%;
+	padding-left: 20px;
+	color:white;
+}
+
+
+
+body{
+	margin: 0;
+	background-color: pink;
+	background-image: url(contact.jpg);
+	background-size: cover;
+	
+}
+	
+ul#nvbar {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: black;
+  font-family: "Agency FB";
+  font-size: 200%;
+ overflow: hidden;
+}
+
+li#nvbar  {
+  float: left;
+}
+
+li#nvbar  a {
+  display: block;
+  background-color: black;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+#nvbar  a:hover {
+  background-color: white;
+  color: black;
+}
+#content{
+	list-style-type: none;
+	font-size:150%;
+	color:white;
+	font-family:"courier new";
+}
+#size{
+	border-radius:5px;
+	background-color:white;
+	width:80px;
+	height:auto;
+}
+
+
+
+
